@@ -1,0 +1,41 @@
+Name: Reggie Barnett 
+Assignment #:  3
+
+Lecture Day and Time: Tu/Th 2:30-3:45
+
+Recitation Day and Time: Mon 1:00-1:50
+
+Program Due Date:  3/7/13
+
+Handed in Date: 3/17/12
+
+Source code (.java) file name(s):
+
+	MyStringBuilder.java
+	Assign3.java
+	A3Test2.java
+
+Compiled (.class) file name(s):  Didn't include .class files
+
+Does your program compile without error?: Yes
+
+If not, what is/are the error(s)?:
+
+	
+Does your program run without error?:  No
+
+If not, what is/are the error(s) and which parts of your program run correctly?:
+
+	Got everything to work except for the insert method with you have to insert
+	in position 0. I commented out this line in Assign3.java
+
+
+Additional comments (including problems and extra credit):
+
+________________________________________________________________
+
+________________________________________________________________
+
+________________________________________________________________
+ 
+________________________________________________________________

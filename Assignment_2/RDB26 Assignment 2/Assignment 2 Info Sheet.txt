@@ -1,0 +1,50 @@
+Name: Reggie Barnett 
+Assignment #:  2
+
+Lecture Day and Time: Tu/Th 2:30-3:45
+
+Recitation Day and Time: Mon 1:00-1:50
+
+Program Due Date: 2/13/13
+
+Handed in Date:  2/13/13
+
+Source code (.java) file name(s):
+
+	Assig2.java
+	LearnToWrite.java
+	MyStringBuilder.java
+
+Compiled (.class) file name(s):  Didn't include .class files
+
+Does your program compile without error?:  Yes
+
+If not, what is/are the error(s)?:
+
+________________________________________________________________
+
+________________________________________________________________
+
+________________________________________________________________
+
+Does your program run without error?:  Yes
+
+If not, what is/are the error(s) and which parts of your program run correctly?:
+
+________________________________________________________________
+
+________________________________________________________________
+
+________________________________________________________________
+
+________________________________________________________________
+
+Additional comments (including problems and extra credit):
+
+________________________________________________________________
+
+________________________________________________________________
+
+________________________________________________________________
+ 
+________________________________________________________________

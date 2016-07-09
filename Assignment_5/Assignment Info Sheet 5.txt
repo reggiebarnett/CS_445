@@ -1,0 +1,48 @@
+Name: Reggie Barnett 
+Assignment #: 5
+
+Lecture Day and Time: Tu/Th 2:30-3:45
+
+Recitation Day and Time: Mon 1:00-1:50
+
+Program Due Date: 4/16/2013
+
+Handed in Date:4/16/2013 
+
+Source code (.java) file name(s):
+
+	Assign5.java
+	BinaryNode.java
+	BinaryNodeInterface.java
+
+Does your program compile without error?:  Yes
+
+If not, what is/are the error(s)?:
+
+________________________________________________________________
+
+________________________________________________________________
+
+________________________________________________________________
+
+Does your program run without error?:  Yes
+
+If not, what is/are the error(s) and which parts of your program run correctly?:
+
+________________________________________________________________
+
+________________________________________________________________
+
+________________________________________________________________
+
+________________________________________________________________
+
+Additional comments (including problems and extra credit):
+
+________________________________________________________________
+
+________________________________________________________________
+
+________________________________________________________________
+ 
+________________________________________________________________
